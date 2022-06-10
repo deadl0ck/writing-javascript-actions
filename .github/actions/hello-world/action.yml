@@ -1,6 +1,6 @@
 runs:
   using: "node12"
-  main: "bread.js"
+  main: "main.js"
 
 name: "my hello action"
 
