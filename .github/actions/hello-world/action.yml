@@ -1,3 +1,7 @@
+runs:
+  using: "node12"
+  main: "bread.js"
+
 name: "my hello action"
 
 description: "say hello with actions"
